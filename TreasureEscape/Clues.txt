@@ -1,0 +1,56 @@
+1."Start your search at the base of the old oak tree, where the first brick was laid." 
+    (Location: near the founding building or central quad)
+
+2."Follow the path of the red brick road to find the next clue." 
+    (Location: along a walkway or path lined with red bricks)
+
+3."Look for the statue of the school mascot, the clue is hidden at its feet." 
+    (Location: near a statue of the school mascot)
+
+4."The clue is hidden in the book with the golden cover, in the library stacks." 
+    (Location: in the library)
+
+5."Find the bench with the plaque dedicated to the class of '98, the clue is hidden underneath." 
+    (Location: near a bench with a plaque dedicated to a specific class)
+
+6."The clue is on the bulletin board in the student union, next to the announcement for the upcoming concert." 
+    (Location: in the student union building, near a bulletin board with announcements)
+
+7."Look for the ivy-covered wall, the clue is hidden behind the third brick from the left." 
+    (Location: near an ivy-covered wall)
+
+8."The clue is hidden in the equipment locker of the sports field, look for the number on the locker that matches the last digit of the year the school was founded." 
+    (Location: in the equipment locker room of a sports field, look for the locker with a number matching the last digit of the school's founding year).
+
+9."Where the gears turn and the saws buzz, that's where you'll find the clue, because." 
+    (Location: on the ground floor, in the workshop)
+
+10."If you want to know where the clue is hidden, you'll have to look behind, where the concrete is smidden." 
+    (Location: on the ground floor, behind the FMHM lab)
+
+11."To find the next clue, you must first find the place, where the cement is mixed and the concrete takes shape." 
+    (Location: on the ground floor, in the SOM and Concrete lab)
+
+12."Where metal is shaped and machines hum, that's where you'll find the next clue, my mum." 
+    (Location: on the ground floor, in the Machine shop)
+
+13."Where students sit and lectures begin, that's where you'll find the next clue to win." 
+    (Location: on the first floor, in the CR 102)
+
+14."Where the blades turn and the wind blows, that's where you'll find the next clue, everyone knows." 
+    (Location: on the first floor, in the BEE lab)
+
+15."Where circuits are made and wires are bent, that's where the next clue is, don't be content." 
+    (Location: on the second floor, in the Electrical labs)
+
+16."Where the blueprints are kept and the plans are made, that's where you'll find the next clue, in the shade." 
+    (Location: on the third floor, in the Civil and Mechanical HOD cabin)
+
+17."Where plastic is melted and mold is made, that's where the next clue is hidden, don't be afraid." 
+    (Location: on the fourth floor, in the Plastics labs)
+
+18."Where books are kept and knowledge is gained, that's where the next clue is, search and remain unchained." 
+    (Location: on the fifth floor, in the Library)
+
+19."Where hunger is cured and thirst is quenched, that's where the final clue is, don't be clenched." 
+    (Location: in the upper basement, in the canteen)
