@@ -1,0 +1,31 @@
+You are cordially invited to participate in Codeathlon, an exciting coding competition that consists of three rounds: Elementary, Intermediate, and Expert.
+
+In the Elementary round, you will be challenged to debug 3 codes. The teams that perform the best will be awarded points based on their ranking. The top 10 teams will receive 50 points, the next 10 teams will receive 40 points, and so on.
+
+In the intermediate round of Codeathlon, known as Coder relay, teams will have to work together to complete a coding task. One player will work on the task for 20 minutes, and then they will switch out with another team member, who will continue the code from where the previous player left off. This round will test the teams' ability to work together and communicate effectively, as well as their coding skills. Points will be allotted in the same way as the elementary round, with the top-performing teams receiving the most points.
+
+In the Expert round of Codeathlon, a DSA (Data Structure and Algorithm) algorithm will be given to each team, and the entire team will have to code a solution for the given algorithm. This round will test the teams' understanding of complex data structures and algorithms as well as their ability to work together as a team to come up with a solution. The top 3 teams will be awarded at the end of this round. This round is considered as the final round of the competition and the scores of this round will be considered as the final scores of the competition.
+
+Codeathlon is an excellent opportunity to put your coding skills to the test, and to compete against some of the best and brightest minds in the field. Whether you're a beginner or an experienced coder, this competition is open to all skill levels and is sure to be a fun and rewarding experience.
+
+Rulebook:
+- Teams should arrive at the Shri Bhagubhai Mafatlal Polytechnic for the competition on 25 February at 9:00 AM.
+- Teams should not bring laptops or any other equipment.
+- The organizer will provide the necessary equipment and resources for the competition, such as computers or paper and pencils for writing out code.
+- Teams will be provided with the specific instructions and guidelines for each round before the start of the round.
+- Teams should follow the instructions and guidelines provided for each round carefully and accurately.
+- Teams should submit their solutions within the given time frame for each round.
+- Teams should communicate with the organizers if they encounter any difficulties during the competition.
+- Teams should refrain from cheating or plagiarizing, and any form of cheating or plagiarism will result in disqualification.
+- The final decision of the judges will be considered as final.
+
+Participation Fees: 200
+
+Rewards:
+1st Prize: 2000*
+2nd Prize: 1000*
+3rd Prize: 500*
+
+So come and join us for this exciting competition, and let's see who will come out on top as the ultimate Codeathlon champion!
+
+Please let us know if you have any questions and we are happy to assist you.
