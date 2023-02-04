@@ -4,4 +4,5 @@ Event Timeline
 Sponsors
 Team
 FAQS
-Links to social media
+Reach Us
+Links to social media 
