@@ -54,3 +54,66 @@
 
 19."Where hunger is cured and thirst is quenched, that's where the final clue is, don't be clenched." 
     (Location: in the upper basement, in the canteen)
+
+20. "Bunking Lectures and Enjoying with friends, playing Ping Pong never ends"
+	(Location : Boys Common Room)
+
+21. "Begin your search with a goal in mind, 1st class on level one is where you'll find"
+	(Location : CR 101)
+
+22. "Entering the Institution look around, your next clue resides on the neighbors porch"
+	(Location : NM entrance)
+
+23. "Every morning a hassle, take your next clue from he who says 'ID ?' "
+	(Location : SBMP Entrance Guards)
+
+24. "Spend Leisure time, have dance practices, but find the clue in time for the clock is ticking"
+	(Location : Girls Common Room)
+
+25. "Use what you use for a fire exit, find the event identity, for I am near it"
+	(Location : Stairwell)
+
+26. "Newton, Joule, Kelvin are the units of my field, find my lab and grab the next clue"
+	(Location : Physics Lab)
+
+27. "Titration left you in frustration, lets use this knowledge to find the next bond"
+	(Location : Chemistry Lab)
+
+28. "I'm the vice head that locks your component"
+	(Location : Mech Lab)
+
+29. "As the name suggests I BLIND you from the outside view"
+	(Location : Any floor Lobby)
+
+30. "To take a railway concession, don't disturb the teacher, for the clue is hidden at the retreival"
+	(Location : SBMP help desk)
+
+31. "Hidden in the rocks, not at a seabed , but between the plants"
+	(Location : Any floor lobby)
+
+32. "Normally, I help quench your thirst but I can help you find the next clue with a thrust"
+	(Location : Water Cooler)
+
+33. "Expert Lectures not so boring, seek in the back for the clue youre going"
+	(Location : Seminar Hall)
+
+34. "Keep Quiet for the people are studying, your clue is lost and found"
+	(Location : Library - Lost and Found)
+
+35. "Ask your guide for a token, retreive the clue in exchange from a man in blue uniform"
+	(Location : Library Bag section)
+
+36. "Draw all you want, it's a place where you can"
+	(Location : Drawing Hall)
+
+37. "Solving matrices is a tutorial session, find my room and get the clue's impression"
+	(Location : Tutorial room)
+
+38. "Transfer files through a network, find a place for its configuration"
+	(Location : Lab 4)
+
+39. "Designing a website isn't easy as it seems, with the right tools it streams"
+	(Location : Lab 1)
+
+40. "With gases it occurs, keeping things cool, find the place where the principle is taught"
+	(Location : Refrigeration Lab)

@@ -1,0 +1,14 @@
+Selfie Spots
+
+1. Cafeteria
+2. Entrance
+3. Mech Lab
+4. CAD Lab
+5. Library
+6. Physics Lab
+7. Chemistry Lab
+8. GCR
+9. BCR
+10. Standee
+11. 
+12. 
