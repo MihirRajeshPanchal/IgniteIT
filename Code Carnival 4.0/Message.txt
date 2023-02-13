@@ -1,4 +1,4 @@
-SVKM's Shri Bhagubhai Mafatlal Polytechnic IT Department -
+SVKM's Shri Bhagubhai Mafatlal Polytechnic presents Ignite IT 2023 organized by Information Technology Department - 
 ✨ Code Carnival 🎡4.0, an exciting coding competition that consists of three rounds: Elementary, Intermediate, and Expert. 
 
 In the Elementary round known as QuizUp, you will be challenged with a menti quiz. 75% of the teams will be selected ..!! 
@@ -18,7 +18,7 @@ Code Carnival 4.0 is an excellent opportunity to put your coding skills to the t
 - Teams should submit their solutions within the given time frame for each round.
 - Teams should communicate with the organizers if they encounter any difficulties during the competition.
 - Teams should refrain from cheating or plagiarizing, and any form of cheating or plagiarism will result in disqualification.
- - Judges decision will be considered final 
+- Judges decision will be considered final 
 
 Participation Fees: ₹150
 Team size : 3 members
@@ -37,7 +37,7 @@ Please let us know if you have any questions and we are happy to assist you.
 Registration Link: 
 https://docs.google.com/forms/d/e/1FAIpQLScXmxREWy2BISiMOtK4E-9L4r7_9qUvCgi9C7Yvziw_5uDClA/viewform?usp=sf_link
 
-Thanking You :
+Special Thanks to :
 
 Patron
 Shri Amrish R Patel, Mentor(SVKM)
@@ -48,3 +48,9 @@ Dr.M.Z.Shaikh
 
 Vice Prinicipal
 Mrs N.G. Kadukar
+
+Student Co-ordinator:
+Mihir Panchal : 9833371632
+
+Faculty Co-ordinator:
+Abhilasha More : 9867182739
