@@ -1,0 +1,13 @@
+TreasureEscape :
+
+Round 1 : Escape room 
+for now n is 20 
+
+A virtual way of playing the escape room wherein teams will be placed in the classroom allocating them with one computer and one escape room.
+the top n teams will be selected for round 2
+
+https://roomescapemaker.com/games
+
+Round 2 : Treasure Hunt 
+
+Refer message.txt
