@@ -42,3 +42,23 @@ First Floor
 	(Location: 1st floor mirror)
 	
 Second Floor
+
+5."Find the bench with the plaque dedicated to the class of 10(binary) 0r 1, the clue is hidden underneath." 
+    (Location: near a bench with a plaque dedicated to a specific class)
+
+15."Where circuits are made and wires are bent, that's where the next clue is, don't be content." 
+    (Location: on the second floor, in the Electrical labs)
+
+29. "As the name suggests I 2 will BLIND you from the outside view"
+	(Location : Any floor Lobby)
+
+41. "Hover high and hover low, search for the treasure in the lab's drone show."
+	(Location : Electrical lab on 2nd floor)
+
+44. "To the left of the lift on floor two, a treasure awaits for the clever and true."
+	(Location : Electrical labs on the second floor)
+
+54. Find the classroom with a missing letter in the bushes you'll find the clue to the latter 2
+	(Location : CR 207)
+	
+Third Floor 
