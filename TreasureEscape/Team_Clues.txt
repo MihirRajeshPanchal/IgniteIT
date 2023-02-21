@@ -8,6 +8,56 @@ Basement
 
 45. "Down below where hunger is sated, find a clue to keep your spirits elated."
 	(Location : Canteen in the upper basement)
+	
+Ground Floor 
+
+1."Start your search at the base of the old oak tree, where the first brick was laid." 
+    (Location: near the founding building or central quad)
+
+2."Follow the path of registration to find the next clue." 
+    (Location: registration desk)
+
+3."Look for the statue of the school mascot, the clue is hidden at its feet." 
+    (Location: near a statue of the school mascot)
+
+6."The clue is on the bulletin board in the student union, next to the announcement for the upcoming concert." 
+    (Location: in the student union building, near a bulletin board with announcements)
+
+7."Look for the ivy-covered wall, the clue is hidden behind the third brick from the left." 
+    (Location: near an ivy-covered wall)
+
+9."Where the gears turn and the saws buzz, that's where you'll find the clue, because." 
+    (Location: on the ground floor, in the workshop)
+
+10."If you want to know where the clue is hidden, you'll have to look behind, where the concrete is smidden." 
+    (Location: on the ground floor, behind the FMHM lab)
+
+11."To find the next clue, you must first find the place, where the cement is mixed and the concrete takes shape." 
+    (Location: on the ground floor, in the SOM and Concrete lab)
+
+12."Where metal is shaped and machines hum, that's where you'll find the next clue, my mum." 
+    (Location: on the ground floor, in the Machine shop)
+
+22. "Entering the Institution look around, your next clue resides on the neighbors porch"
+	(Location : NM entrance)
+
+23. "Every morning a hassle, take your next clue from he who says 'ID ?' "
+	(Location : SBMP Entrance Guards)
+
+30. "To take a railway concession, don't disturb the teacher, for the clue is hidden at the retreival"
+	(Location : SBMP help desk)
+
+42. "Where tools are wielded and sparks fly, search for a clue to keep your hopes high."
+	(Location : Machine shop on the ground floor)
+
+51. "The pressure of water on ground floor is 4x10^4 Pa"
+	(Location: ground floor water pump)
+
+55. COPYcat crosses the next clue
+	(Location : Ashok Xerox)
+
+56. When you have wounds and you want them to fade , use first aid 
+	(Location : Medical Room)
 
 First Floor 
 
