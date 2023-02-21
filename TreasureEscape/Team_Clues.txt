@@ -17,8 +17,7 @@ Ground Floor
 2."Follow the path of registration to find the next clue." 
     (Location: registration desk)
 
-3."Look for the statue of the school mascot, the clue is hidden at its feet." 
-    (Location: near a statue of the school mascot)
+
 
 6."The clue is on the bulletin board in the student union, next to the announcement for the upcoming concert." 
     (Location: in the student union building, near a bulletin board with announcements)
@@ -155,3 +154,54 @@ Third Floor
 	(Location : Lab 5 Bag section)
 	
 Fifth Floor 
+
+4."The clue is hidden in the book with the golden cover, in the library stacks." 
+    (Location: in the library)
+
+
+
+31. "Hidden in the rocks, not at a seabed , but between the plants"
+	(Location : Any floor lobby)
+
+33. "Expert Lectures not so boring, seek in the back for the clue youre going"
+	(Location : Seminar Hall)
+
+34. "Keep Quiet for the people are studying, your clue is lost and found"
+	(Location : Library - Lost and Found)
+
+35. "Ask your guide for a token, retreive the clue in exchange from a man in blue uniform"
+	(Location : Library Bag section)
+
+38. "Transfer files through a network, find a place for its configuration"
+	(Location : Lab 4)
+
+39. "Designing a website isn't easy as it seems, with the right tools it streams"
+	(Location : Lab 1)
+
+46. "Where books and wisdom are freely traded, search for a clue to keep you motivated."
+	(Location : Library on the fifth floor)
+
+49. "Where ideas and knowledge are shared, find a clue that will keep you prepared."	
+	(Location : Seminar hall on the fifth floor.)
+
+50. "Follow the trail of plastic and wire, to where objects of your desire, are crafted with precision and care."
+	(Location : 5th Floor Lab 5 3d printer)
+
+53. Place where you can cast your imagination into reality
+	(Location: near 3d printer)
+
+57. Your are lost here, but found only here
+	(Location : Lost & Found)
+
+58. 6 x 4 Matrix Game khelo 2 x 2 me milega score 
+	(Location : Lab 5 Bag section)
+
+
+
+Team 1
+
+18."Where books are kept and knowledge is gained, that's where the next clue is, search and remain unchained." 
+    (Location: on the fifth floor, in the Library)
+    
+3."Look for the statue of the school mascot, the clue is hidden at its feet." 
+    (Location: near a statue of the school mascot)
