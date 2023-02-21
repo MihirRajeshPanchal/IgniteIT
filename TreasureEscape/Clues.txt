@@ -1,8 +1,8 @@
 1."Start your search at the base of the old oak tree, where the first brick was laid." 
     (Location: near the founding building or central quad)
 
-2."Follow the path of the red brick road to find the next clue." 
-    (Location: along a walkway or path lined with red bricks)
+2."Follow the path of registration to find the next clue." 
+    (Location: registration desk)
 
 3."Look for the statue of the school mascot, the clue is hidden at its feet." 
     (Location: near a statue of the school mascot)
@@ -10,7 +10,7 @@
 4."The clue is hidden in the book with the golden cover, in the library stacks." 
     (Location: in the library)
 
-5."Find the bench with the plaque dedicated to the class of '98, the clue is hidden underneath." 
+5."Find the bench with the plaque dedicated to the class of 10(binary) 0r 1, the clue is hidden underneath." 
     (Location: near a bench with a plaque dedicated to a specific class)
 
 6."The clue is on the bulletin board in the student union, next to the announcement for the upcoming concert." 
@@ -19,8 +19,8 @@
 7."Look for the ivy-covered wall, the clue is hidden behind the third brick from the left." 
     (Location: near an ivy-covered wall)
 
-8."The clue is hidden in the equipment locker of the sports field, look for the number on the locker that matches the last digit of the year the school was founded." 
-    (Location: in the equipment locker room of a sports field, look for the locker with a number matching the last digit of the school's founding year).
+8."Find the locker in the table tennis room with a number matching the school's founding year's last digit to uncover the next clue."
+    (Location: BCR TT).
 
 9."Where the gears turn and the saws buzz, that's where you'll find the clue, because." 
     (Location: on the ground floor, in the workshop)
@@ -46,7 +46,7 @@
 16."Where the blueprints are kept and the plans are made, that's where you'll find the next clue, in the shade." 
     (Location: on the third floor, in the Civil and Mechanical HOD cabin)
 
-17."Where plastic is melted and mold is made, that's where the next clue is hidden, don't be afraid." 
+			17."Where plastic is melted and mold is made, that's where the next clue is hidden, don't be afraid." 
     (Location: on the fourth floor, in the Plastics labs)
 
 18."Where books are kept and knowledge is gained, that's where the next clue is, search and remain unchained." 
@@ -67,7 +67,7 @@
 23. "Every morning a hassle, take your next clue from he who says 'ID ?' "
 	(Location : SBMP Entrance Guards)
 
-24. "Spend Leisure time, have dance practices, but find the clue in time for the clock is ticking"
+			24. "Spend Leisure time, have dance practices, but find the clue in time for the clock is ticking"
 	(Location : Girls Common Room)
 
 25. "Use what you use for a fire exit, find the event identity, for I am near it"
@@ -82,7 +82,7 @@
 28. "I'm the vice head that locks your component"
 	(Location : Mech Lab)
 
-29. "As the name suggests I BLIND you from the outside view"
+29. "As the name suggests I 2 will BLIND you from the outside view"
 	(Location : Any floor Lobby)
 
 30. "To take a railway concession, don't disturb the teacher, for the clue is hidden at the retreival"
@@ -106,7 +106,7 @@
 36. "Draw all you want, it's a place where you can"
 	(Location : Drawing Hall)
 
-37. "Solving matrices is a tutorial session, find my room and get the clue's impression"
+37. "Solving 2 by 2 matrices is a tutorial session, find my room and get the clue's impression"
 	(Location : Tutorial room)
 
 38. "Transfer files through a network, find a place for its configuration"
@@ -115,7 +115,7 @@
 39. "Designing a website isn't easy as it seems, with the right tools it streams"
 	(Location : Lab 1)
 
-40. "With gases it occurs, keeping things cool, find the place where the principle is taught"
+			40. "With gases it occurs, keeping things cool, find the place where the principle is taught"
 	(Location : Refrigeration Lab)
 
 41. "Hover high and hover low, search for the treasure in the lab's drone show."
@@ -136,7 +136,7 @@
 46. "Where books and wisdom are freely traded, search for a clue to keep you motivated."
 	(Location : Library on the fifth floor)
 
-47. "Where materials are shaped and formed, find a clue to keep you informed."
+			47. "Where materials are shaped and formed, find a clue to keep you informed."
 	(Location : Plastics labs on the fourth floor)
 
 48. "Where machines and structures are designed, seek out a clue that's one of a kind."
@@ -170,17 +170,20 @@
 	(Location : Lost & Found)
 
 58. 6 x 4 Matrix Game khelo 2 x 2 me milega score 
-	(Location : Any Lab Bag Section)
+	(Location : Lab 5 Bag section)
 
-59. 
+59. Dig deep in the soil lab and uncover the pH mystery to reveal the next clue.
 	(Location : Soil Lab)
 
-60. 
-	(Location : )
+60. Unlock the next clue by acing the law and theory section of the exam.
+	(Location : Exam Section 3rd Floor)
 
-duck score dino 
-bottle flip
-cards 
-dice
-binary to decimal
-tt
+
+Summary 
+
+Basement : 3 Clues
+Ground : 16 Clues
+Floor 1 : 10 clues
+Floor 2 : 6 Clues
+Floor 3 : 7 Clues
+Floor 5 : 14 Clues

@@ -1,18 +1,18 @@
 Selfie Spots
 
-1. Cafeteria
+    1. Cafeteria
 2. Entrance
-3. Mech Lab
+    3. Mech Lab
 4. CAD Lab
-5. Library
+    5. Library
 6. Physics Lab
-7. Chemistry Lab
+    7. Chemistry Lab
 8. GCR
 9. BCR
 10. Standee
 11. Seminar Hall
-12. Bhagubhai Potrait
-13. Ramp
+    12. Bhagubhai Potrait
+    13. Ramp
 14. Xerox
 15. Workshop
 16. E library NMIMS
@@ -20,3 +20,4 @@ Selfie Spots
 18. Water purifier 1 st floor
 19. 1st floor Stairs
 20. Mukesh patel entrance
+21. Lobby

@@ -1,0 +1,8 @@
+19."Where hunger is cured and thirst is quenched, that's where the final clue is, don't be clenched." 
+    (Location: in the upper basement, in the canteen)
+
+25. "Use what you use for a fire exit, find the event identity, for I am near it"
+	(Location : Stairwell)
+
+45. "Down below where hunger is sated, find a clue to keep your spirits elated."
+	(Location : Canteen in the upper basement)

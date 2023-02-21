@@ -1,0 +1,29 @@
+13."Where students sit and lectures begin, that's where you'll find the next clue to win." 
+    (Location: on the first floor, in the CR 102)
+
+14."Where the blades turn and the wind blows, that's where you'll find the next clue, everyone knows." 
+    (Location: on the first floor, in the BEE lab)
+
+21. "Begin your search with a goal in mind, 1st class on level one is where you'll find"
+	(Location : CR 101)
+
+26. "Newton, Joule, Kelvin are the units of my field, find my lab and grab the next clue"
+	(Location : Physics Lab)
+
+27. "Titration left you in frustration, lets use this knowledge to find the next bond"
+	(Location : Chemistry Lab)
+
+32. "Normally, I help quench your thirst but I can help you find the next clue with a thrust"
+	(Location : Water Cooler)
+
+36. "Draw all you want, it's a place where you can"
+	(Location : Drawing Hall)
+
+37. "Solving 2 by 2 matrices is a tutorial session, find my room and get the clue's impression"
+	(Location : Tutorial room)
+
+43. "To the left of the lift on the first floor, you'll find treasure and knowledge galore."
+	(Location : Left side of the lift on the first floor (CR 101, Chemistry lab, Physics lab))
+
+52. Look for yourself in front where you show your creativity 
+	(Location: 1st floor mirror)

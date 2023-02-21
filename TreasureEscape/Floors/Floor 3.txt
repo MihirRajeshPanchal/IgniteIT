@@ -1,0 +1,20 @@
+8."Find the locker in the table tennis room with a number matching the school's founding year's last digit to uncover the next clue."
+    (Location: BCR Table Tennis).
+
+16."Where the blueprints are kept and the plans are made, that's where you'll find the next clue, in the shade." 
+    (Location: on the third floor, in the Civil and Mechanical HOD cabin)
+
+20. "Bunking Lectures and Enjoying with friends, playing Ping Pong never ends"
+	(Location : Boys Common Room)
+
+28. "I'm the vice head that locks your component"
+	(Location : Mech Lab)
+
+48. "Where machines and structures are designed, seek out a clue that's one of a kind."
+	(Location : Civil and Mechanical labs on the third floor)
+
+59. Dig deep in the soil lab and uncover the pH mystery to reveal the next clue.
+	(Location : Soil Lab)
+
+60. Unlock the next clue by acing the law and theory section of the exam.
+	(Location : Exam Section 3rd Floor)
