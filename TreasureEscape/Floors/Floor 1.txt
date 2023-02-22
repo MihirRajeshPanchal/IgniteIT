@@ -6,7 +6,7 @@
 
 21. "Begin your search with a goal in mind, 1st class on level one is where you'll find"
 	(Location : CR 101)
-
+	
 26. "Newton, Joule, Kelvin are the units of my field, find my lab and grab the next clue"
 	(Location : Physics Lab)
 

@@ -1,0 +1,14 @@
+25. "Use what you use for a fire exit, find the event identity, for I am near it"
+	(Location : Stairwell)
+
+15."Where circuits are made and wires are bent, that's where the next clue is, don't be content." 
+    (Location: on the second floor, in the Electrical labs)
+
+38. "Transfer files through a network, find a place for its configuration"
+	(Location : Lab 4)
+
+2."Follow the path of registration to find the next clue." 
+    (Location: registration desk)
+
+32. "Normally, I help quench your thirst but I can help you find the next clue with a thrust"
+	(Location : Water Cooler)

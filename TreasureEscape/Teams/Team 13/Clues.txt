@@ -1,0 +1,14 @@
+28. "I'm the vice head that locks your component"
+	(Location : Mech Lab)    Third Floor 
+
+3."Look for the statue of the school mascot, the clue is hidden at its feet." 
+    (Location: near a statue of the school mascot)Ground Floor
+    
+15."Where circuits are made and wires are bent, that's where the next clue is, don't be content." 
+    (Location: on the second floor, in the Electrical labs)
+ 
+7."Look for the ivy-covered wall, the clue is hidden behind the third brick from the left." 
+    (Location: near an ivy-covered wall)   Ground floor
+    
+57. Your are lost here, but found only here
+	(Location : Lost & Found)   5th Floor

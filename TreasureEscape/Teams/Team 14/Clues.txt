@@ -1,0 +1,14 @@
+35. "Ask your guide for a token, retreive the clue in exchange from a man in blue uniform"
+	(Location : Library Bag section)
+
+29. "As the name suggests I 2 will BLIND you from the outside view"
+	(Location : Any floor Lobby)   Second Floor
+
+10."If you want to know where the clue is hidden, you'll have to look behind, where the concrete is smidden." 
+    (Location: on the ground floor, behind the FMHM lab)
+
+13."Where students sit and lectures begin, that's where you'll find the next clue to win." 
+    (Location: on the first floor, in the CR 102)
+
+42. "Where tools are wielded and sparks fly, search for a clue to keep your hopes high."
+	(Location : Machine shop on the ground floor)
