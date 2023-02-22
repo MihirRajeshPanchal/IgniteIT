@@ -2,32 +2,18 @@ Selfie Spots
 
 21. Lobby                           Team 1
 5. Library                          Team 2
-3. Mech Lab                         Team 3
+3. Workshop                         Team 3
 1. Cafeteria                        Team 4
 13. Ramp                            Team 5
 7. Chemistry Lab                    Team 6
 2. Entrance                         Team 7
+12. Bhagubhai Potrait               Team 8
+4. CAD Lab                          Team 9
+6. Physics Lab                      Team 10
+9. BCR                              Team 11
+10. Standee                         Team 12
+20. Mukesh patel entrance           Team 13    
+17. Basement lift area              Team 14
+18. Water purifier 1 st floor       Team 15
+      
 
-
-
-
-
-
-
-
-
-
-4. CAD Lab
-6. Physics Lab
-8. GCR
-9. BCR
-10. Standee
-11. Seminar Hall
-12. Bhagubhai Potrait
-14. Xerox
-15. Workshop
-16. E library NMIMS
-17. Basement lift area
-18. Water purifier 1 st floor
-19. 1st floor Stairs
-20. Mukesh patel entrance
