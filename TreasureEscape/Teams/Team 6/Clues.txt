@@ -1,0 +1,14 @@
+54. Find the classroom with a missing letter in the bushes you'll find the clue to the latter 2
+	(Location : CR 207)
+	
+33. "Expert Lectures not so boring, seek in the back for the clue youre going"
+	(Location : Seminar Hall)
+
+37. "Solving 2 by 2 matrices is a tutorial session, find my room and get the clue's impression"
+	(Location : Tutorial room)   First Floor
+
+16."Where the blueprints are kept and the plans are made, that's where you'll find the next clue, in the shade." 
+    (Location: on the third floor, in the Civil and Mechanical HOD cabin)
+	
+10."If you want to know where the clue is hidden, you'll have to look behind, where the concrete is smidden." 
+    (Location: on the ground floor, behind the FMHM lab)

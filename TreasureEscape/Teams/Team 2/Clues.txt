@@ -1,0 +1,14 @@
+4."The clue is hidden in the book with the golden cover, in the library stacks." 
+    (Location: in the library)
+
+2."Follow the path of registration to find the next clue." 
+    (Location: registration desk)
+    
+28. "I'm the vice head that locks your component"
+	(Location : Mech Lab)    Third Floor 
+
+14."Where the blades turn and the wind blows, that's where you'll find the next clue, everyone knows." 
+    (Location: on the first floor, in the BEE lab)
+    
+15."Where circuits are made and wires are bent, that's where the next clue is, don't be content." 
+    (Location: on the second floor, in the Electrical labs)

@@ -1,0 +1,14 @@
+42. "Where tools are wielded and sparks fly, search for a clue to keep your hopes high."
+	(Location : Machine shop on the ground floor)
+
+48. "Where machines and structures are designed, seek out a clue that's one of a kind."
+	(Location : Civil and Mechanical labs on the third floor)
+
+46. "Where books and wisdom are freely traded, search for a clue to keep you motivated."
+	(Location : Library on the fifth floor)
+
+13."Where students sit and lectures begin, that's where you'll find the next clue to win." 
+    (Location: on the first floor, in the CR 102)
+    
+30. "To take a railway concession, don't disturb the teacher, for the clue is hidden at the retreival"
+	(Location : SBMP help desk)   GFloor

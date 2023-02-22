@@ -1,0 +1,14 @@
+39. "Designing a website isn't easy as it seems, with the right tools it streams"
+	(Location : Lab 1)   5th Floor
+
+43. "To the left of the lift on the first floor, you'll find treasure and knowledge galore."
+	(Location : Left side of the lift on the first floor (CR 101, Chemistry lab, Physics lab))
+
+11."To find the next clue, you must first find the place, where the cement is mixed and the concrete takes shape." 
+    (Location: on the ground floor, in the SOM and Concrete lab)
+
+41. "Hover high and hover low, search for the treasure in the lab's drone show."
+	(Location : Electrical lab on 2nd floor)
+
+57. Your are lost here, but found only here
+	(Location : Lost & Found)   5th Floor

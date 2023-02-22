@@ -1,0 +1,14 @@
+25. "Use what you use for a fire exit, find the event identity, for I am near it"
+	(Location : Stairwell)    Upper basement
+	
+31. "Hidden in the rocks, not at a seabed , but between the plants"
+	(Location : Any floor lobby)  Second floor
+    
+35. "Ask your guide for a token, retreive the clue in exchange from a man in blue uniform"
+	(Location : Library Bag section)
+
+6."The clue is on the bulletin board in the student union, next to the announcement for the upcoming concert." 
+    (Location: in the student union building, near a bulletin board with announcements)     Ground Floor
+    
+21. "Begin your search with a goal in mind, 1st class on level one is where you'll find"
+	(Location : CR 101)
