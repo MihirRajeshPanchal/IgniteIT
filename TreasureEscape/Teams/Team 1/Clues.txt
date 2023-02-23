@@ -1,7 +1,7 @@
 18."Where books are kept and knowledge is gained, that's where the next clue is, search and remain unchained." 
     (Location: on the fifth floor, in the Library)
     
-3."Look for the statue of the school mascot, the clue is hidden at its feet." 
+3."Look for the statue of the college mascot, the clue is hidden at its feet." 
     (Location: near a statue of the school mascot)Ground Floor
     
 8."Find the locker in the table tennis room with a number matching the school's founding year's last digit to uncover the next clue."
@@ -10,5 +10,5 @@
 38. "Transfer files through a network, find a place for its configuration"
 	(Location : Lab 4)  5th Floor
     
- 5."Find the bench with the plaque dedicated to the class of 10(binary) 0r 1, the clue is hidden underneath." 
+ 5."Find the bench with the plaque dedicated to the class of 2 0r 1, the clue is hidden underneath." 
     (Location: near a bench with a plaque dedicated to a specific class)     Second floor

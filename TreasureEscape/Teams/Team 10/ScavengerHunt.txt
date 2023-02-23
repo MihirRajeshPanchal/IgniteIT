@@ -1,0 +1,5 @@
+protactor 
+20 rs new note 
+a4 size plain paper
+red pen
+bus ticket

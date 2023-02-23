@@ -1,10 +1,10 @@
-4."The clue is hidden in the book with the golden cover, in the library stacks." 
+4."The clue is hidden in the book with the brown cover, in the library stacks." 
     (Location: in the library)
 
 2."Follow the path of registration to find the next clue." 
     (Location: registration desk)
     
-28. "I'm the vice head that locks your component"
+28. "I'm the vice head that locks your component. "Screw it
 	(Location : Mech Lab)    Third Floor 
 
 14."Where the blades turn and the wind blows, that's where you'll find the next clue, everyone knows." 

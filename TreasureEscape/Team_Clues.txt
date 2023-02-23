@@ -190,9 +190,9 @@ Team 11
 	
 Sequence of route team wise :
 
-Clues    Team 1  Team 2  Team 3  Team 4  Team 5  Team 6  Team 7  Team 8  Team 9  Team 10  Team 11  Team 12
-  1       5        5      UB       UB      2       2       5        3      5        G        G
-  2       G        G       2        2      5       5       1       UB      G        3        G 
-  3       3        3       5        5      1       1       G        G      3        5        G
-  4       5        5       G        G      3       3       2        2      5        1
-  5       2        2       1        1      G       G       5        5      G        G
+Clues    Team 1  Team 2  Team 3  Team 4  Team 5  Team 6  Team 7  Team 8  Team 9  Team 10  
+  1       5        5       1       UB      2       2       5        3      5        G       
+  2       G        G       UB       2      5       5       1       UB      G        3        
+  3       3        3       2        5      1       1       G        G      3        5       
+  4       5        5       5        G      3       3       2        2      5        1
+  5       2        2       G        1      G       G       5        5      G        G
