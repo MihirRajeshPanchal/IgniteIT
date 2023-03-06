@@ -11,4 +11,4 @@
     (Location: on the first floor, in the CR 102)
     
 30. "To take a railway concession, don't disturb the teacher, for the clue is hidden at the retreival"
-	(Location : SBMP help desk)   GFloor
+	(Location : SBMP help desk)   GFloor 
